@@ -383,5 +383,25 @@
     "file": "apple-picking.webp",
     "title": "Apple Picking",
     "category": "Characters"
+  },
+  {
+    "file": "commission-samples-1.webp",
+    "title": "Commission Samples 1",
+    "category": "Characters"
+  },
+  {
+    "file": "commission-samples-2.webp",
+    "title": "Commission Samples 2",
+    "category": "Characters"
+  },
+  {
+    "file": "commission-samples-3.webp",
+    "title": "Commission Samples 3",
+    "category": "Characters"
+  },
+  {
+    "file": "commission-samples-4.webp",
+    "title": "Commission Samples 4",
+    "category": "Characters"
   }
 ]
