@@ -83,5 +83,10 @@
     "file": "mushroom-elf.webp",
     "title": "Mushroom Elf",
     "category": "Scenes"
+  },
+  {
+    "file": "desert-slugger.webp",
+    "title": "Desert Slugger",
+    "category": "Action"
   }
 ]
