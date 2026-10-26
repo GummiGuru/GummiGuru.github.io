@@ -28,5 +28,10 @@
     "file": "skater-goblin-2.webp",
     "title": "Skater Goblin 2",
     "category": "Action"
+  },
+  {
+    "file": "skater-goblin.webp",
+    "title": "Skater Goblin",
+    "category": "Characters"
   }
 ]
