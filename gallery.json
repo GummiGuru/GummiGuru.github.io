@@ -308,5 +308,10 @@
     "file": "castle-wall.webp",
     "title": "Castle Wall",
     "category": "Characters"
+  },
+  {
+    "file": "wheat-field.webp",
+    "title": "Wheat Field",
+    "category": "Characters"
   }
 ]
