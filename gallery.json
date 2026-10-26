@@ -348,5 +348,10 @@
     "file": "bianca.webp",
     "title": "Bianca",
     "category": "Characters"
+  },
+  {
+    "file": "stone-stairs.webp",
+    "title": "Stone Stairs",
+    "category": "Characters"
   }
 ]
