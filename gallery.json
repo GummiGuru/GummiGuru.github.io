@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "file": "workshop-goblin-1.webp",
+    "title": "Workshop Goblin 1",
+    "category": "Characters"
+  },
+  {
+    "file": "workshop-goblin-2.webp",
+    "title": "Workshop Goblin 2",
+    "category": "Characters"
+  }
+]
