@@ -303,5 +303,10 @@
     "file": "lake-dock.webp",
     "title": "Lake Dock",
     "category": "Characters"
+  },
+  {
+    "file": "castle-wall.webp",
+    "title": "Castle Wall",
+    "category": "Characters"
   }
 ]
