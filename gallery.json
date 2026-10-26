@@ -498,5 +498,15 @@
     "file": "tiny-big-plans.webp",
     "title": "Tiny Big Plans",
     "category": "Characters"
+  },
+  {
+    "file": "game-face-1.webp",
+    "title": "Game Face 1",
+    "category": "Action"
+  },
+  {
+    "file": "game-face-2.webp",
+    "title": "Game Face 2",
+    "category": "Action"
   }
 ]
