@@ -618,5 +618,10 @@
     "file": "beach-fighter.webp",
     "title": "Beach Fighter",
     "category": "Action"
+  },
+  {
+    "file": "cage-fighter.webp",
+    "title": "Cage Fighter",
+    "category": "Characters"
   }
 ]
