@@ -353,5 +353,10 @@
     "file": "stone-stairs.webp",
     "title": "Stone Stairs",
     "category": "Characters"
+  },
+  {
+    "file": "mountain-lake.webp",
+    "title": "Mountain Lake",
+    "category": "Characters"
   }
 ]
