@@ -463,5 +463,10 @@
     "file": "corn-maze.webp",
     "title": "Corn Maze",
     "category": "Scenes"
+  },
+  {
+    "file": "pumpkin-carver.webp",
+    "title": "Pumpkin Carver",
+    "category": "Characters"
   }
 ]
