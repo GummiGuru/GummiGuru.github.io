@@ -78,5 +78,10 @@
     "file": "undead-knight.webp",
     "title": "Undead Knight",
     "category": "Characters"
+  },
+  {
+    "file": "mushroom-elf.webp",
+    "title": "Mushroom Elf",
+    "category": "Scenes"
   }
 ]
