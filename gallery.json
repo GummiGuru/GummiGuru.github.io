@@ -418,5 +418,10 @@
     "file": "lantern-festival.webp",
     "title": "Lantern Festival",
     "category": "Action"
+  },
+  {
+    "file": "bonfire-night.webp",
+    "title": "Bonfire Night",
+    "category": "Scenes"
   }
 ]
