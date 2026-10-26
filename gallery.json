@@ -193,5 +193,25 @@
     "file": "lantern-trail.webp",
     "title": "Lantern Trail",
     "category": "Characters"
+  },
+  {
+    "file": "mystery-goblins-1.webp",
+    "title": "Mystery Goblins 1",
+    "category": "Characters"
+  },
+  {
+    "file": "mystery-goblins-2.webp",
+    "title": "Mystery Goblins 2",
+    "category": "Characters"
+  },
+  {
+    "file": "mystery-goblins-3.webp",
+    "title": "Mystery Goblins 3",
+    "category": "Characters"
+  },
+  {
+    "file": "mystery-goblins-4.webp",
+    "title": "Mystery Goblins 4",
+    "category": "Characters"
   }
 ]
