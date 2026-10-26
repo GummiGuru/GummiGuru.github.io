@@ -478,5 +478,20 @@
     "file": "scarecrow.webp",
     "title": "Scarecrow",
     "category": "Characters"
+  },
+  {
+    "file": "tiny-big-plans-1.webp",
+    "title": "Tiny Big Plans 1",
+    "category": "Action"
+  },
+  {
+    "file": "tiny-big-plans-2.webp",
+    "title": "Tiny Big Plans 2",
+    "category": "Action"
+  },
+  {
+    "file": "tiny-big-plans-3.webp",
+    "title": "Tiny Big Plans 3",
+    "category": "Action"
   }
 ]
