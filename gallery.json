@@ -688,5 +688,10 @@
     "file": "rose-knight.webp",
     "title": "Rose Knight",
     "category": "Characters"
+  },
+  {
+    "file": "tennis-swing.webp",
+    "title": "Tennis Swing",
+    "category": "Action"
   }
 ]
