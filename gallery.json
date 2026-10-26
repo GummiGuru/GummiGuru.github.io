@@ -323,5 +323,10 @@
     "file": "forest-trail.webp",
     "title": "Forest Trail",
     "category": "Action"
+  },
+  {
+    "file": "city-balcony.webp",
+    "title": "City Balcony",
+    "category": "Characters"
   }
 ]
