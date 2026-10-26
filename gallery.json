@@ -248,5 +248,10 @@
     "file": "desert-road.webp",
     "title": "Desert Road",
     "category": "Characters"
+  },
+  {
+    "file": "forest-path.webp",
+    "title": "Forest Path",
+    "category": "Characters"
   }
 ]
