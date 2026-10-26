@@ -613,5 +613,10 @@
     "file": "pumpkin-stack.webp",
     "title": "Pumpkin Stack",
     "category": "Characters"
+  },
+  {
+    "file": "beach-fighter.webp",
+    "title": "Beach Fighter",
+    "category": "Action"
   }
 ]
