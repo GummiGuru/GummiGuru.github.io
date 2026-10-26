@@ -328,5 +328,10 @@
     "file": "city-balcony.webp",
     "title": "City Balcony",
     "category": "Characters"
+  },
+  {
+    "file": "falling-leaves.webp",
+    "title": "Falling Leaves",
+    "category": "Characters"
   }
 ]
