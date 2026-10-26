@@ -333,5 +333,10 @@
     "file": "falling-leaves.webp",
     "title": "Falling Leaves",
     "category": "Characters"
+  },
+  {
+    "file": "studio-stretch.webp",
+    "title": "Studio Stretch",
+    "category": "Action"
   }
 ]
