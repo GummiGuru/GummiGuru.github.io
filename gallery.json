@@ -88,5 +88,10 @@
     "file": "desert-slugger.webp",
     "title": "Desert Slugger",
     "category": "Action"
+  },
+  {
+    "file": "helmet-goblin.webp",
+    "title": "Helmet Goblin",
+    "category": "Characters"
   }
 ]
