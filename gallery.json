@@ -648,5 +648,10 @@
     "file": "kickboxer-2.webp",
     "title": "Kickboxer",
     "category": "Action"
+  },
+  {
+    "file": "pier-tennis.webp",
+    "title": "Pier Tennis",
+    "category": "Characters"
   }
 ]
