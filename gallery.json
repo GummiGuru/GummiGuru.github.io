@@ -623,5 +623,10 @@
     "file": "cage-fighter.webp",
     "title": "Cage Fighter",
     "category": "Characters"
+  },
+  {
+    "file": "paint-splash-warrior.webp",
+    "title": "Paint Splash Warrior",
+    "category": "Action"
   }
 ]
