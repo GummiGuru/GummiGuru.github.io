@@ -93,5 +93,25 @@
     "file": "helmet-goblin.webp",
     "title": "Helmet Goblin",
     "category": "Characters"
+  },
+  {
+    "file": "goblin-academy-1.webp",
+    "title": "Goblin Academy 1",
+    "category": "Characters"
+  },
+  {
+    "file": "goblin-academy-2.webp",
+    "title": "Goblin Academy 2",
+    "category": "Characters"
+  },
+  {
+    "file": "goblin-academy-3.webp",
+    "title": "Goblin Academy 3",
+    "category": "Characters"
+  },
+  {
+    "file": "goblin-academy-4.webp",
+    "title": "Goblin Academy 4",
+    "category": "Characters"
   }
 ]
